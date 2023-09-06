@@ -1,7 +1,7 @@
 # ------------------------------ CONFIG ------------------------------
 
 # openweathermap.org api key
-apiKey: '462f91ab051cd00988c7ed87cb143c55'
+apiKey: '<your openweathermap.org api key>'
 
 # degree units; 'c' for celsius, 'f' for fahrenheit
 unit: 'c'

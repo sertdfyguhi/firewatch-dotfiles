@@ -1,5 +1,5 @@
-user          = 'sertdfyguhi'
-apiKey        = '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'
+user          = '<your github username>'
+apiKey        = '<personal access api key with notification access>'
 publicApi     = 'https://api.github.com'
 enterpriseApi = '<your github enterprise api url here>'
 enterprise    = false

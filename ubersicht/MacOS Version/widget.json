@@ -1,0 +1,6 @@
+{
+  "name": "Mac OS Version",
+  "description": "A widget to display macOS name, version, build and uptime on the desktop. The Build number can be hidden and the widget is themable. Four themes are included: mono, paper, dark and color.",
+  "author": "Fjord",
+  "email": "ftos@ftos.com"
+}
